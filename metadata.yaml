@@ -1,0 +1,48 @@
+_repo: The-Life-and-Opinions-of-Tristram-Shandy-Gentleman_39270
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sterne, Laurence
+    alias: Yorick, Mr.
+    birthdate: 1713
+    deathdate: 1768
+    gutenberg_agent_id: '419'
+    url: http://www.gutenberg.org/2009/agents/419
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Sterne
+description: The Life and Opinions of Tristram Shandy, Gentleman (or, more briefly,
+  Tristram Shandy) is a novel by Laurence Sterne. It was published in nine volumes,
+  the first two appearing in 1759, and seven others following over the next 10 years.
+  It was not always held in high esteem by other writers (Samuel Johnson responded
+  that, "Nothing odd will do long. Tristram Shandy did not last."), but its bawdy
+  humour was popular with London society, and it has come to be seen as one of the
+  greatest comic novels in English, as well as a forerunner for many modern narrative
+  devices.-- Excerpted from Wi.
+gutenberg_issued: '2012-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Infants -- Fiction'
+- !lcsh 'Stream of consciousness fiction'
+- !lcsh 'Experimental fiction'
+- !lcsh 'Fetus -- Fiction'
+- !lcsh 'Fiction -- Authorship -- Fiction'
+- !lcc 'PR'
+title: The Life and Opinions of Tristram Shandy, Gentleman
+url: http://www.gutenberg.org/ebooks/39270
